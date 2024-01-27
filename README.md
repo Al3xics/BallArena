@@ -1,6 +1,6 @@
 # BallArena
 
-If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/). Download the zip file named **"BallArena"**, decompress, and launch the .exe file.<br>
+If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/). Open the game named **"BallArena"** and play !<br>
 If you want to quit the game, please press **escape**, and go back to the menu (button named **"Retourner Au Menu"**, the last one), and press **"Quitter"**.<br>
 <br>
 
@@ -9,7 +9,7 @@ This project was made in 2 weeks, and is about **experimenting with procedural g
 Because of a lack of time (a few days at most), we couldn't correct the small problems/bugs that could appear.<br>
 <br>
 
-Because the project is way too large to store it on github, I will not be able to show it. So try to play the game and discover what need improvement, is well-made, or badly made, ...<br>
+Try to play the game and discover what need improvement, is well-made, or badly made, ...<br>
 <br>
 
 ### Have fun !!
